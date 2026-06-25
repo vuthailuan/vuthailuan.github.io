@@ -31,3 +31,6 @@ Version note: v3 refines the home-page hero and navigation proportions.
 
 
 Update v4: small proofreading and formatting fixes after publication review.
+
+
+Version: refined academic v7 (final text polish, publication anchors, and section reordering).

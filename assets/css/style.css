@@ -756,3 +756,18 @@ a{font-weight:500;}
   .research-page .video-figure{max-width:100%;}
   .research-page .video-grid.two-videos{grid-template-columns:1fr;gap:14px;}
 }
+
+/* v7 final text polish and publication section links */
+.publications-page .pub-intro{
+  margin:.05rem 0 .55rem!important;
+  font-size:1.02rem;
+  line-height:1.55;
+  color:#263448;
+}
+.publications-page .pub-intro a{
+  font-weight:760;
+  color:#075eb5;
+}
+.publications-page .section-title[id]{
+  scroll-margin-top:86px;
+}

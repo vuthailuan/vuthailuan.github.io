@@ -1,10 +1,5 @@
-Final refined academic version.
-
-Changes in this build:
-- Reduced home hero size and removed repeated summary/contact lines from the hero.
-- Widened and realigned the home Contact card so labels and URLs do not break awkwardly.
-- Reduced portrait sizes on Home and Group.
-- Rebuilt Research logos and simulation figures at professional sizes; captions are smaller.
-- Converted Research themes, Past Research, and Grants to aligned numbered lists.
-- Tightened Teaching rows and overall typography for better readability.
-- Kept the full page set and source backup from the prior full build.
+v7 final polish
+- Corrected small typo/spacing issues in Home, CV, Group, Students, News, and Publications.
+- Reordered Publications as Papers, Software/Codes, Theses, Poster presentations.
+- Added linked publication overview sentence and section anchors.
+- Preserved layout, videos, images, and all main content from v6.
