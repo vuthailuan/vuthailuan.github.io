@@ -28,3 +28,6 @@ Revision v2 standardizes CV dates and service lists, publication typography, new
 
 
 Version note: v3 refines the home-page hero and navigation proportions.
+
+
+Update v4: small proofreading and formatting fixes after publication review.
