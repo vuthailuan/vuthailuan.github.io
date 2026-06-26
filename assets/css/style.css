@@ -775,3 +775,7 @@ a{font-weight:500;}
 .publications-page .section-title[id]{
   scroll-margin-top:86px;
 }
+/* Final override: smaller homepage name */
+.home-page .hero h1 {
+  font-size: clamp(1.75rem, 2.25vw, 2.20rem) !important;
+}
