@@ -502,7 +502,7 @@ a{font-weight:500;}
   padding:32px 20px 30px!important;
 }
 .home-page .hero h1{
-  font-size:clamp(1.95rem,2.75vw,2.65rem)!important;
+  font-size: clamp(1.75rem, 2.25vw, 2.20rem) !important;
   letter-spacing:-.035em!important;
 }
 .home-page .portrait{
@@ -637,7 +637,7 @@ a{font-weight:500;}
   padding:40px 24px 42px!important;
 }
 .home-page .hero h1{
-  font-size:clamp(2.15rem,2.9vw,2.75rem)!important;
+  font-size: clamp(1.75rem, 2.25vw, 2.20rem) !important;
   line-height:1.05!important;
   letter-spacing:-.04em!important;
 }
@@ -685,7 +685,7 @@ a{font-weight:500;}
     max-width:145px!important;
     justify-self:end!important;
   }
-  .home-page .hero h1{font-size:clamp(2rem,7vw,2.45rem)!important;}
+  .home-page .hero h1{font-size: clamp(1.75rem, 2.25vw, 2.20rem) !important;}
 }
 @media(max-width:620px){
   .home-page .hero-inner{
@@ -774,8 +774,4 @@ a{font-weight:500;}
 }
 .publications-page .section-title[id]{
   scroll-margin-top:86px;
-}
-/* Final override: smaller homepage name */
-.home-page .hero h1 {
-  font-size: clamp(1.75rem, 2.25vw, 2.20rem) !important;
 }
