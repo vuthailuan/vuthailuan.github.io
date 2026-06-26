@@ -293,7 +293,7 @@ a{font-weight:500;}
   padding:34px 20px 30px!important;
 }
 .home-page .hero h1{
-  font-size: clamp(1.9rem, 2.55vw, 2.45rem) !important;
+  font-size: clamp(1.75rem, 2.25vw, 2.2rem) !important;
 }
 .home-page .portrait{
   max-width:185px!important;
