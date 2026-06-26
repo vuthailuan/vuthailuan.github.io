@@ -34,3 +34,6 @@ Update v4: small proofreading and formatting fixes after publication review.
 
 
 Version: refined academic v7 (final text polish, publication anchors, and section reordering).
+
+## v8 note
+HTML source files have been re-formatted with line breaks/indentation to make direct editing in the GitHub web editor easier. The first Research-page video is slightly smaller than before while remaining larger than the two side-by-side videos below it.

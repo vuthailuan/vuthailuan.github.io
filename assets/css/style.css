@@ -707,6 +707,10 @@ a{font-weight:500;}
   margin:1rem auto 1.45rem;
   text-align:center;
 }
+.research-page .vorticity-video{
+  max-width:600px;
+}
+
 .research-page .video-embed{
   position:relative;
   width:100%;
